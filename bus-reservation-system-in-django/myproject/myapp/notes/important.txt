@@ -1,0 +1,1 @@
+Bus.objects.create(bus_name='Haryana Roadways',source='panipat',dest='phagwara',nos=40,rem=38,price=569,date='2024-04-26',time='5:00')
